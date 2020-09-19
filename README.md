@@ -1,6 +1,6 @@
 ### Hi EveryOne 👋
 
-I am Behnam Nasehi and an Android programmer in Java and I am always looking to learn , This is my gateway page and you can contact me  :
+I am Behnam Nasehi and an Android programmer in Java and I am always looking to learn , you can contact me  :
 
 ## Email
 
