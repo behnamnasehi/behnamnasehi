@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi EveryOne 👋
 
-<!--
-**behnamnasehi/behnamnasehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Behnam Nasehi and an Android programmer in Java and I am always looking to learn , This is my gateway page and you can contact me  :
 
-Here are some ideas to get you started:
+## Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+behnammnasehi@gmail.com
+```
+## Telegram
+
+[https://t.me/behnamnasehii](https://t.me/behnamnasehii)
+
+## Medium
+
+[https://medium.com/@behnammnasehi](https://medium.com/@behnammnasehi)
+
