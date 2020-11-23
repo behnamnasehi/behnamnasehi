@@ -1,6 +1,12 @@
 ### Hi EveryOne 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=behnamnasehi)
 
+<p align="center">
+	<a href="https://github.com/behnamnasehi"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/behnam-nasehi-05336018b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://behnammnasehi.medium.com/"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>  
+</p>
+
 I'm a software engineer passionate about Android and the software industry, contributing programming skills to develop innovative and consumer-facing mobile products.
 Experienced in software development according to the architecture, object-oriented design, data structures, algorithm design, problem-solving, and software development life cycle, including coding standards, source control management, build processes, and testing.
 I'm a great team player in working with agile methodology and looking for a challenging team with opportunities to have a global impact on millions of people around the world.
