@@ -20,14 +20,11 @@ behnammnasehi@gmail.com
 
 [https://www.linkedin.com/in/behnam-nasehi-05336018b](https://www.linkedin.com/in/behnam-nasehi-05336018b)
 
-## Telegram <a href="https://t.me/behnamnasehi"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram" alt="Telegram"></a>
+## Telegram <a href="https://t.me/behnamnasehii"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram" alt="Telegram"></a>
 
 [https://t.me/behnamnasehii](https://t.me/behnamnasehii)
 
 ## Medium <a href="https://behnammnasehi.medium.com/"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>  
 
-[https://medium.com/@behnammnasehi](https://medium.com/@behnammnasehi)
+[https://behnammnasehi.medium.com](https://behnammnasehi.medium.com)
 
-## Virgool
-
-[https://virgool.io/@behnamnasehi](https://virgool.io/@behnamnasehi)
