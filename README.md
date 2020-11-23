@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=behnamnasehi)
 
 <p align="center">
-	<a href="https://github.com/behnamnasehi"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/behnamnasehi"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/behnam-nasehi-05336018b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://behnammnasehi.medium.com/"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>  
 </p>
