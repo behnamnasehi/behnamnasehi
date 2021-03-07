@@ -24,7 +24,7 @@ behnammnasehi@gmail.com
 
 [https://t.me/behnamnasehii](https://t.me/behnamnasehii)
 
-## Medium <a href="https://behnammnasehi.medium.com/"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>  
+## Medium <a href="https://behnammnasehi.medium.com/"><img src="https://img.shields.io/badge/website--_.svg?style=social&logo=Medium" alt="Medium"></a>  
 
 [https://behnammnasehi.medium.com](https://behnammnasehi.medium.com)
 
