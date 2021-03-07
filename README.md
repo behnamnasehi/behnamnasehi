@@ -12,19 +12,7 @@ I'm a great team player in working with agile methodology and looking for a chal
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=behnamnasehi&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamnasehi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Email <a href="behnammnasehi@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
-
-behnammnasehi@gmail.com
-
-## Linkedin <a href="https://www.linkedin.com/in/behnam-nasehi-05336018b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
-[https://www.linkedin.com/in/behnam-nasehi-05336018b](https://www.linkedin.com/in/behnam-nasehi-05336018b)
-
-## Telegram <a href="https://t.me/behnamnasehii"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram" alt="Telegram"></a>
-
-[https://t.me/behnamnasehii](https://t.me/behnamnasehii)
-
 ## Medium <a href="https://behnammnasehi.medium.com/"><img src="https://img.shields.io/badge/website--_.svg?style=social&logo=Website" alt="Medium"></a>  
 
-[https://behnammnasehi.medium.com](https://behnammnasehi.medium.com)
+[https://behnammnasehi.ir](https://behnammnasehi.ir)
 
