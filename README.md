@@ -17,7 +17,6 @@ I'm a great team player in working with agile methodology and looking for a chal
 ###
 
 ![Snake animation](https://raw.githubusercontent.com/behnamnasehi/behnamnasehi/output/github-contribution-grid-snake-dark.svg)
-<img src="https://raw.githubusercontent.com/behnamnasehi/behnamnasehi/output/snake.svg" alt="Snake animation" />
 
 ###
 
